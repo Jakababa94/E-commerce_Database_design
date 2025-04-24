@@ -57,7 +57,7 @@ See [`schema.sql`](./schema.sql) for the full SQL schema, including:
 ## 🧑‍💻 Tech Stack
 
 - MySQL
-- ERD designed with [draw.io.io](https://draw.io)
+- ERD designed with [draw.io](https://draw.io)
 
 ---
 
